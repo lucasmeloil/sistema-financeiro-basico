@@ -116,12 +116,4 @@ table th,
 table td {
   padding: 10px;
   border-bottom: 1px solid #ccc;
-  text-align: left;
 }
-
-.columnType,
-.columnAction {
-  width: 80px;
-  text-align: center;
-}
-
